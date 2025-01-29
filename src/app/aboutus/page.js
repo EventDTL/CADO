@@ -11,7 +11,7 @@ const ClientStat = ({ number, description }) => (
 const AboutUs = () => {
   const teamembers = [
     { name: "CA Dhiraj Ostwal", role: "Director", imgsrc: "/dhiraj.jpg" },
-    { name: "Ganesh Manjare", role: "Manager", imgsrc: "/Ganesh1.jpg" },
+    { name: "Ganesh Manjare", role: "Manager", imgsrc: "/Ganesh.jpg" },
     { name: "Asit Adhainghe ", role: "Article Assistant", imgsrc: "/asit.jpg" },
     { name: "Vyankatesh kasat", role: "Article Assistant", imgsrc: "/vyankatesh1.jpg" },
     { name: "Shivam yadav ", role: "Article Assistant", imgsrc: "/shivam1.jpg" },
